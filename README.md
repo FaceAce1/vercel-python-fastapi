@@ -35,5 +35,5 @@ uvicorn main:app --host 0.0.0.0 --port 8000 --reload
 
 
 # License
-Copyright © 2024 [FaceAce1](https://github.com/FaceAce1).<br />
-This project is [MIT](LICENSE) licensed.
+Copyright © 2024 [FaceAce1](https://github.com/ultrasev).<br />
+This project is [MIT](ultrasev) licensed.
